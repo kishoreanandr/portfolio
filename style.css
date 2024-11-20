@@ -567,13 +567,14 @@ span
     }
     .home-img img
     {
-        width:65vw;
+        width:70vw;
+        height: 70vw;
         margin-top: 8rem;
     }
     .about-img img
     {
         width: 65vw;
-        margin-top:4rem;
+        margin-top:3    rem;
     }
 }
 
