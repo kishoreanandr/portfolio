@@ -103,6 +103,8 @@ span
 .home-img img
 {
     width: 25vw;
+    height: 25vw;
+    object-fit: cover;
     animation: floatImage 4s ease-in-out infinite;
     border-radius: 100%;
 }
@@ -178,7 +180,7 @@ span
 }
 .about-img img
 {
-    width: 35vw;
+    width: 22vw;
 }
 .heading
 {
